@@ -26,8 +26,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install HeidiSQL (HeidiSQL_12.3.0.6589_Setup)
 - Install osTicket-v1.15.8
 
+![image](https://github.com/user-attachments/assets/5da7e2b8-594b-4e5a-a93e-7c1895c7a7e7)
+
+The prerequisite files can be found on osTicket installation documentations
+
 <h2>Installation Steps</h2>
 
+Start by Installing IIS and enabling CGI and Common HTTP Features
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
