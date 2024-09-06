@@ -42,13 +42,21 @@ Start by Installing IIS and enabling CGI and Common HTTP Features
 Installing/Enabling IIS allows you to host osTicket. IIS is a web server built into Windows. oSTicket is a web-based application. Enabling IIS allows you to run PHP which is the server language that osTicket is written in. </p>
 <br />
 
+Install PHP Manager, Rewrite Module, and C++ Redistributable
+
+![image](https://github.com/user-attachments/assets/93bb27d3-f6b4-4210-9b2d-fefcbf67f9e2)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Installing/Enabling IIS allows you to host osTicket. IIS is a web server built into Windows. oSTicket is a web-based application. Enabling IIS allows you to run PHP which is the server language that osTicket is written in. 
 </p>
 <br />
+
+Register PHP from within IIS
+1. Create the directory C:\PHP
+2. Unzip php-7.3.8-nts-Win32-VC15-x86 into C:\PHP
+3. Open IIS
+4. 
+![image](https://github.com/user-attachments/assets/53b4575c-e9e0-422d-8372-1fc26031587a)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
