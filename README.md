@@ -34,18 +34,19 @@ The prerequisite files can be found on osTicket installation documentations
 
 Start by Installing IIS and enabling CGI and Common HTTP Features
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/6dedf93b-e6e6-46d8-bebc-f79d36ff9ec4)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Installing/Enabling IIS allows you to host osTicket. IIS is a web server built into Windows. oSTicket is a web-based application. Enabling IIS allows you to run PHP which is the server language that osTicket is written in. </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installing/Enabling IIS allows you to host osTicket. IIS is a web server built into Windows. oSTicket is a web-based application. Enabling IIS allows you to run PHP which is the server language that osTicket is written in. 
 </p>
 <br />
 
